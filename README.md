@@ -1,22 +1,21 @@
-# Olá, sou Lucas André! 👋
+# Olá, sou Lucas André! 
 
-**Desenvolvedor de Software | Foco em Governança de Dados, Arquitetura Lógica & UX**
+**Desenvolvedor Full Stack & Entusiasta de Tecnologias Emergentes**
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) no Senac e com vivência prática no Porto Digital. Transformo regras de negócio complexas em soluções digitais funcionais, performáticas e acessíveis.
+Sou um desenvolvedor apaixonado por transformar desafios complexos em soluções digitais. Minha base técnica combina lógica de sistemas, governança de dados e uma visão criativa de UX. Estou em constante evolução, explorando novas linguagens e aprofundando minha experiência em arquitetura de software e automação.
 
-### 🛠 Tech Stack
-* **Desenvolvimento:** JavaScript, React, HTML, CSS, TypeScript, Tailwind CSS.
-* **Dados & Lógica:** Modelagem (MER/MR), MySQL, Consultas SQL, Governança de Dados.
-* **Ferramentas & Metodologias:** Git, GitHub, Metodologias Ágeis (Scrum), Documentação Técnica.
+### Tech Stack
+- **Linguagens:** JavaScript, TypeScript, Python, Java.
+- **Front-end:** React, Tailwind css , HTML5, CSS3.
+- **Back-end & Dados:** SQL, MySQL, Modelagem de Processos.
+- **Ferramentas:** Git, GitHub, Metodologias Ágeis, Figma. ?i=js,html,css
 
-### 🎯 Diferenciais
-* **Experiência prática:** Vivência em projetos de alta performance no Porto Digital.
-* **Foco em Qualidade:** Experiência com testes de usabilidade e padrões de acessibilidade (WCAG).
-* **Visão Sistêmica:** Expertise em automação de fluxos e modelagem de processos B2B.
+###  O que me move
+Acredito que a tecnologia é a ponte entre a ideia e a realidade. Seja automatizando fluxos, criando interfaces acessíveis ou modelando bancos de dados, meu foco é sempre a qualidade, a performance e a usabilidade.
 
 ---
-### 🔗 Conecte-se comigo
-* **LinkedIn:** [linkedin.com/in/lucasandre-dev](https://www.linkedin.com/in/lucasandre-dev)
-* **Portfólio:** [linktree.com/lucas_andre490](https://linktree.com/lucas_andre490)
+###  Conecte-se comigo
+- **LinkedIn:** [linkedin.com/in/lucasandre-dev](https://www.linkedin.com/in/lucasandre-dev)
+- **Portfólio:** [linktree.com/lucas_andre490](https://linktree.com/lucas_andre490)
 
 ---
