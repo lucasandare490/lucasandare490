@@ -6,6 +6,11 @@ Estudante de ADS no Senac e residente tecnológico no Porto Digital. Minha abord
 
 ---
 
+<!-- Gráfico de Linguagens -->
+<div align="left">
+  <img src="https://raw.githubusercontent.com/lucasandare490/lucasandare490/languages-output/languages.svg" height="150" alt="languages graph" />
+</div>
+
 ### Front-end:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -56,3 +61,10 @@ Estudante de ADS no Senac e residente tecnológico no Porto Digital. Minha abord
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
+
+<!-- Gráfico de Contribuição -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasandare490/lucasandare490/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasandare490/lucasandare490/pacman-output/bomberman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasandare490/lucasandare490/pacman-output/bomberman-contribution-graph.svg">
+</picture>
